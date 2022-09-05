@@ -3,7 +3,7 @@
 -   [Websites](#websites)
 -   [Youtube Channels](#youtube-channels)
 
-We recommend this content! test
+We recommend this content!
 Note that any website marked with a * may pay us a commission if you subscribe to a learning plan with them.
 
 ## Websites
