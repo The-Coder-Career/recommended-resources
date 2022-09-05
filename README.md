@@ -16,7 +16,7 @@ We recommend this content! Note that any website marked with a \* may pay us a c
 | The Odin Project          | https://www.theodinproject.com/                                           | Free                         | HTML, CSS, Javascript                               |
 | Harvard CS50 (Within EDX) | https://pll.harvard.edu/course/cs50-introduction-computer-science?delta=0 | Free (pay for certification) | HTML, CSS, Javascript, Python, C                    |
 | Zero To Mastery\*         | https://academy.zerotomastery.io/?affcode=441520_4zkdbffr                 | Paid                         | HTML, CSS, Javascript, Python, Typescript, Solidity |
-|                           |                                                                           |                              |                                                     |
+| Git For Pragmatists       |  https://www.gitforpragmatists.xyz/                                       | Free                         | Git             
 
 ## Youtube Channels
 
