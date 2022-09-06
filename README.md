@@ -33,4 +33,4 @@ We recommend this content! Note that any website marked with a \* may pay us a c
 | The Coder Career     | https://www.youtube.com/c/thecodercareer                 | Careers/Tutorials  |                                         |
 | Fireship             | https://www.youtube.com/c/Fireship                       | News and Summaries |                                         |
 | Ben Awad             | https://www.youtube.com/c/BenAwad97                      | Careers/Tutorials  | Javascript   
-|              | https://www.youtube.com/c/CodingwithJohn                      | Tutorials  | Java                            |
+| John           | https://www.youtube.com/c/CodingwithJohn                      | Tutorials  | Java                            |
