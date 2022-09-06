@@ -32,4 +32,5 @@ We recommend this content! Note that any website marked with a \* may pay us a c
 | Code Creative        | https://www.youtube.com/channel/UC09fL42MpkktKZWmWxYiDhw | Careers/Tutorials  |                                         |
 | The Coder Career     | https://www.youtube.com/c/thecodercareer                 | Careers/Tutorials  |                                         |
 | Fireship             | https://www.youtube.com/c/Fireship                       | News and Summaries |                                         |
-| Ben Awad             | https://www.youtube.com/c/BenAwad97                      | Careers/Tutorials  | Javascript                              |
+| Ben Awad             | https://www.youtube.com/c/BenAwad97                      | Careers/Tutorials  | Javascript   
+| John           | https://www.youtube.com/c/CodingwithJohn                      | Tutorials  | Java                            |
