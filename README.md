@@ -41,7 +41,7 @@ Remember you can search this document by using cmd/ctrl + f!
 
 ## Podcasts
 
-| Channel Name      | Link (Spotify unless stated)                         | Focus                                   | Languages/Areas Covered (if applicable) |
+| Name              | Link (Spotify unless stated)                         | Focus                                   | Languages/Areas Covered (if applicable) |
 | ----------------- | ---------------------------------------------------- | --------------------------------------- | --------------------------------------- |
 | The Coder Career  | https://open.spotify.com/show/7BkIsKOw8vhFOmD4ZKXwES | Interviews/Technical Explanations       | Everything!                             |
 | All The Code      | https://open.spotify.com/show/3soviQmGnbnSxJcJzV8N3J | Technical Explanations/Entrepreneurship | Everything!                             |
