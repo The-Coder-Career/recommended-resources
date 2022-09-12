@@ -23,7 +23,6 @@ Remember you can search this document by using cmd/ctrl + f!
 | The Odin Project          | https://www.theodinproject.com/                                           | Free                         | HTML, CSS, Javascript                               |
 | Zero To Mastery\*         | https://academy.zerotomastery.io/?affcode=441520_4zkdbffr                 | Paid                         | HTML, CSS, Javascript, Python, Typescript, Solidity |
 
-
 ## Youtube Channels
 
 | Channel Name         | Link                                                     | Focus              | Languages/Areas Covered (if applicable) |
@@ -35,24 +34,23 @@ Remember you can search this document by using cmd/ctrl + f!
 | Forrest Knight       | https://www.youtube.com/c/FKnight                        | Careers            |                                         |
 | FreeCodeCamp         | https://www.youtube.com/c/Freecodecamp                   | Courses            | Everything!                             |
 | John                 | https://www.youtube.com/c/CodingwithJohn                 | Tutorials          | Java                                    |
-| Kevin Powell         | https://www.youtube.com/kepowob                          | Tutorials ++       | Big focus on CSS & and some HTML
+| Kevin Powell         | https://www.youtube.com/kepowob                          | Tutorials ++       | Big focus on CSS & and some HTML        |
 | Nick White           | https://www.youtube.com/c/NickWhite/videos               | Careers            | Javascript                              |
 | Pargmatic Engineer   | https://www.youtube.com/c/mrgergelyorosz                 | Careers            |                                         |
 | TheNetNinja          | https://www.youtube.com/c/TheNetNinja                    | Courses            | Everything!                             |
 | The Coder Career     | https://www.youtube.com/c/thecodercareer                 | Careers/Tutorials  |                                         |
 | Tina Huang           | https://www.youtube.com/c/TinaHuang1                     | Careers            | Data Science                            |
 
-
 ## Podcasts
 
-| Name              | Link (Spotify unless stated)                         | Focus                                   | Languages/Areas Covered (if applicable) |
-| ----------------- | ---------------------------------------------------- | --------------------------------------- | --------------------------------------- |
-| All The Code      | https://open.spotify.com/show/3soviQmGnbnSxJcJzV8N3J | Technical Explanations/Entrepreneurship | Everything!                             |
-| Indie Hackers     | https://open.spotify.com/show/4ex8hmrHCPvPohKJb3wsuC | Entrepreneurship                        | Everything!                             |
-| Javascript Jabber | https://open.spotify.com/show/6xpiit8aJmwDHk1rKdxmri | Technical Explanations                  | Javascript                              |
-| The Coder Career  | https://open.spotify.com/show/7BkIsKOw8vhFOmD4ZKXwES | Interviews/Technical Explanations       | Everything!                             |
+| Name              | Link (Spotify unless stated)                                             | Focus                                   | Languages/Areas Covered (if applicable) |
+| ----------------- | ------------------------------------------------------------------------ | --------------------------------------- | --------------------------------------- |
+| All The Code      | https://open.spotify.com/show/3soviQmGnbnSxJcJzV8N3J                     | Technical Explanations/Entrepreneurship | Everything!                             |
+| Indie Hackers     | https://open.spotify.com/show/4ex8hmrHCPvPohKJb3wsuC                     | Entrepreneurship                        | Everything!                             |
+| Javascript Jabber | https://open.spotify.com/show/6xpiit8aJmwDHk1rKdxmri                     | Technical Explanations                  | Javascript                              |
+| The Coder Career  | https://open.spotify.com/show/7BkIsKOw8vhFOmD4ZKXwES                     | Interviews/Technical Explanations       | Everything!                             |
+| Syntax            | https://open.spotify.com/show/4kYCRYJ3yK5DQbP5tbfZby?si=8c29c9e5063f4d7a | Interviews/Technical Explanations       | Everything!                             |
 
-
-# Who is behind this list?
+## Who is behind this list?
 
 This list was originally written by The Coder Career founders Cam Blackwood and Colin Riddell. Members of The Coder Career community have now contributed their favourite resources too! Want to contribute? Check out the instructions.md file.
