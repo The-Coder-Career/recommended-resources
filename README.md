@@ -42,6 +42,7 @@ Remember you can search this document by using cmd/ctrl + f!
 | TheNetNinja          | https://www.youtube.com/c/TheNetNinja                    | Courses            | Everything!                             |
 | The Coder Career     | https://www.youtube.com/c/thecodercareer                 | Careers/Tutorials  |                                         |
 | Tina Huang           | https://www.youtube.com/c/TinaHuang1                     | Careers            | Data Science                            |
+| Web Dev Simplified   | https://www.youtube.com/c/WebDevSimplified               | Courses/Tutorials  | Web Development                         |
 
 ## Podcasts
 
