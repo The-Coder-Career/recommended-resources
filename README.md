@@ -46,13 +46,15 @@ Remember you can search this document by using cmd/ctrl + f!
 
 ## Podcasts
 
-| Name              | Link (Spotify unless stated)                                             | Focus                                   | Languages/Areas Covered (if applicable) |
-| ----------------- | ------------------------------------------------------------------------ | --------------------------------------- | --------------------------------------- |
-| All The Code      | https://open.spotify.com/show/3soviQmGnbnSxJcJzV8N3J                     | Technical Explanations/Entrepreneurship | Everything!                             |
-| Indie Hackers     | https://open.spotify.com/show/4ex8hmrHCPvPohKJb3wsuC                     | Entrepreneurship                        | Everything!                             |
-| Javascript Jabber | https://open.spotify.com/show/6xpiit8aJmwDHk1rKdxmri                     | Technical Explanations                  | Javascript                              |
-| The Coder Career  | https://open.spotify.com/show/7BkIsKOw8vhFOmD4ZKXwES                     | Interviews/Technical Explanations       | Everything!                             |
-| Syntax            | https://open.spotify.com/show/4kYCRYJ3yK5DQbP5tbfZby?si=8c29c9e5063f4d7a | Interviews/Technical Explanations       | Everything!                             |
+| Name              | Link (Spotify unless stated)                                             | Focus                                        | Languages/Areas Covered (if applicable) |
+| ----------------- | ------------------------------------------------------------------------ | -------------------------------------------- | --------------------------------------- |
+| All The Code      | https://open.spotify.com/show/3soviQmGnbnSxJcJzV8N3J                     | Technical Explanations/Entrepreneurship      | Everything!                             |
+| Indie Hackers     | https://open.spotify.com/show/4ex8hmrHCPvPohKJb3wsuC                     | Entrepreneurship                             | Everything!                             |
+| Javascript Jabber | https://open.spotify.com/show/6xpiit8aJmwDHk1rKdxmri                     | Technical Explanations                       | Javascript                              |
+| The Coder Career  | https://open.spotify.com/show/7BkIsKOw8vhFOmD4ZKXwES                     | Interviews/Technical Explanations            | Everything!                             |
+| Syntax            | https://open.spotify.com/show/4kYCRYJ3yK5DQbP5tbfZby?si=8c29c9e5063f4d7a | Interviews/Technical Explanations            | Everything!                             |
+| Compiler          | https://open.spotify.com/show/2vdrao20EwrhpLeO59ZT7K                     | Technical Explanations/Careers               | Everything!                             |
+| Glowing in Tech   | https://open.spotify.com/show/7av07hbwZWBUGTQmG3Vaxi                     | Technical Explanations/Careers/Women in tech | Everything!                             |
 
 ## Who is behind this list?
 
