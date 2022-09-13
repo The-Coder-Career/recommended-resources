@@ -11,17 +11,19 @@ Remember you can search this document by using cmd/ctrl + f!
 
 ## Websites
 
-| Resource                  | Link                                                                      | Cost                         | Languages Covered                                   |
-| ------------------------- | ------------------------------------------------------------------------- | ---------------------------- | --------------------------------------------------- |
-| CodeCademy                | https://www.codecademy.com/                                               | Free + Paid                  | HTML, CSS, Javascript                               |
-| Coursera                  | https://www.coursera.org/                                                 | Free + Paid                  | Python                                              |
-| EDX                       | https://www.edx.org/                                                      | Free + Paid                  | Python                                              |
-| FreeCodeCamp              | https://www.freecodecamp.org/                                             | Free                         | HTML, CSS, Javascript                               |
-| Git For Pragmatists       | https://www.gitforpragmatists.xyz/                                        | Free                         | Git                                                 |
-| Harvard CS50 (Within EDX) | https://pll.harvard.edu/course/cs50-introduction-computer-science?delta=0 | Free (pay for certification) | HTML, CSS, Javascript, Python, C                    |
-| Scrimba                   | https://scrimba.com/                                                      | Free + Paid                  | HTML, CSS, Javascript, Typescript, Svelte ++        |
-| The Odin Project          | https://www.theodinproject.com/                                           | Free                         | HTML, CSS, Javascript                               |
-| Zero To Mastery\*         | https://academy.zerotomastery.io/?affcode=441520_4zkdbffr                 | Paid                         | HTML, CSS, Javascript, Python, Typescript, Solidity |
+| Resource                         | Link                                                                      | Cost                         | Languages Covered                                   |
+| -------------------------------- | ------------------------------------------------------------------------- | ---------------------------- | --------------------------------------------------- |
+| CodeCademy                       | https://www.codecademy.com/                                               | Free + Paid                  | HTML, CSS, Javascript                               |
+| Coursera                         | https://www.coursera.org/                                                 | Free + Paid                  | Python                                              |
+| EDX                              | https://www.edx.org/                                                      | Free + Paid                  | Python                                              |
+| FreeCodeCamp                     | https://www.freecodecamp.org/                                             | Free                         | HTML, CSS, Javascript                               |
+| Git For Pragmatists              | https://www.gitforpragmatists.xyz/                                        | Free                         | Git                                                 |
+| Harvard CS50 (Within EDX)        | https://pll.harvard.edu/course/cs50-introduction-computer-science?delta=0 | Free (pay for certification) | HTML, CSS, Javascript, Python, C                    |
+| Scrimba                          | https://scrimba.com/                                                      | Free + Paid                  | HTML, CSS, Javascript, Typescript, Svelte ++        |
+| The Odin Project                 | https://www.theodinproject.com/                                           | Free                         | HTML, CSS, Javascript                               |
+| Zero To Mastery\*                | https://academy.zerotomastery.io/?affcode=441520_4zkdbffr                 | Paid                         | HTML, CSS, Javascript, Python, Typescript, Solidity |
+| Code First Girls                 | https://codefirstgirls.com/                                               | Free                         | HTML, CSS, Javascript, Python                       |
+| Automate the Boring Stuff (Book) | https://automatetheboringstuff.com/                                       | Free                         | Python                                              |
 
 ## Youtube Channels
 
