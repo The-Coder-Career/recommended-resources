@@ -13,7 +13,9 @@ Remember you can search this document by using cmd/ctrl + f!
 
 | Resource                         | Link                                                                      | Cost                         | Languages Covered                                   |
 | -------------------------------- | ------------------------------------------------------------------------- | ---------------------------- | --------------------------------------------------- |
+| Automate the Boring Stuff (Book) | https://automatetheboringstuff.com/                                       | Free                         | Python                                              |
 | CodeCademy                       | https://www.codecademy.com/                                               | Free + Paid                  | HTML, CSS, Javascript                               |
+| Code First Girls                 | https://codefirstgirls.com/                                               | Free                         | HTML, CSS, Javascript, Python                       |
 | Coursera                         | https://www.coursera.org/                                                 | Free + Paid                  | Python                                              |
 | EDX                              | https://www.edx.org/                                                      | Free + Paid                  | Python                                              |
 | FreeCodeCamp                     | https://www.freecodecamp.org/                                             | Free                         | HTML, CSS, Javascript                               |
@@ -22,8 +24,6 @@ Remember you can search this document by using cmd/ctrl + f!
 | Scrimba                          | https://scrimba.com/                                                      | Free + Paid                  | HTML, CSS, Javascript, Typescript, Svelte ++        |
 | The Odin Project                 | https://www.theodinproject.com/                                           | Free                         | HTML, CSS, Javascript                               |
 | Zero To Mastery\*                | https://academy.zerotomastery.io/?affcode=441520_4zkdbffr                 | Paid                         | HTML, CSS, Javascript, Python, Typescript, Solidity |
-| Code First Girls                 | https://codefirstgirls.com/                                               | Free                         | HTML, CSS, Javascript, Python                       |
-| Automate the Boring Stuff (Book) | https://automatetheboringstuff.com/                                       | Free                         | Python                                              |
 
 ## Youtube Channels
 
@@ -49,12 +49,12 @@ Remember you can search this document by using cmd/ctrl + f!
 | Name              | Link (Spotify unless stated)                                             | Focus                                        | Languages/Areas Covered (if applicable) |
 | ----------------- | ------------------------------------------------------------------------ | -------------------------------------------- | --------------------------------------- |
 | All The Code      | https://open.spotify.com/show/3soviQmGnbnSxJcJzV8N3J                     | Technical Explanations/Entrepreneurship      | Everything!                             |
+| Compiler          | https://open.spotify.com/show/2vdrao20EwrhpLeO59ZT7K                     | Technical Explanations/Careers               | Everything!                             |
+| Glowing in Tech   | https://open.spotify.com/show/7av07hbwZWBUGTQmG3Vaxi                     | Technical Explanations/Careers/Women in tech | Everything!                             |
 | Indie Hackers     | https://open.spotify.com/show/4ex8hmrHCPvPohKJb3wsuC                     | Entrepreneurship                             | Everything!                             |
 | Javascript Jabber | https://open.spotify.com/show/6xpiit8aJmwDHk1rKdxmri                     | Technical Explanations                       | Javascript                              |
 | The Coder Career  | https://open.spotify.com/show/7BkIsKOw8vhFOmD4ZKXwES                     | Interviews/Technical Explanations            | Everything!                             |
 | Syntax            | https://open.spotify.com/show/4kYCRYJ3yK5DQbP5tbfZby?si=8c29c9e5063f4d7a | Interviews/Technical Explanations            | Everything!                             |
-| Compiler          | https://open.spotify.com/show/2vdrao20EwrhpLeO59ZT7K                     | Technical Explanations/Careers               | Everything!                             |
-| Glowing in Tech   | https://open.spotify.com/show/7av07hbwZWBUGTQmG3Vaxi                     | Technical Explanations/Careers/Women in tech | Everything!                             |
 
 ## Who is behind this list?
 
