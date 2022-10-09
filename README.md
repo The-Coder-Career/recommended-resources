@@ -58,7 +58,7 @@ Remember you can search this document by using cmd/ctrl + f!
 | The Coder Career     | https://www.youtube.com/c/thecodercareer                 | Careers/Tutorials  |                                         |
 | Tina Huang           | https://www.youtube.com/c/TinaHuang1                     | Careers            | Data Science                            |
 | Web Dev Simplified   | https://www.youtube.com/c/WebDevSimplified               | Courses/Tutorials  | Web Development                         |
-| Women Who Code   | https://www.youtube.com/user/WomenWhoCode               | Courses/Careers/Talks/Tutorials/ | Everything!                         |
+| Women Who Code   | https://www.youtube.com/user/WomenWhoCode               | Courses/Careers/Talks/Tutorials | Everything!                         |
 
 ## Podcasts
 
