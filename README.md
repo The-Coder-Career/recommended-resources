@@ -56,6 +56,12 @@ Remember you can search this document by using cmd/ctrl + f!
 | The Coder Career  | https://open.spotify.com/show/7BkIsKOw8vhFOmD4ZKXwES                     | Interviews/Technical Explanations            | Everything!                             |
 | Syntax            | https://open.spotify.com/show/4kYCRYJ3yK5DQbP5tbfZby?si=8c29c9e5063f4d7a | Interviews/Technical Explanations            | Everything!                             |
 
+## GitHub Repositories
+
+| Repository Name              | Link                                              | Focus                                        | Languages Covered |
+| ----------------- | ------------------------------------------------------------------------ | -------------------------------------------- | --------------------------------------- |
+| Coding Interview University      | https://github.com/jwasham/coding-interview-university                     | Zero Code up to Job Interview      | C, Python, Java, C++                           |
+
 ## Who is behind this list?
 
 This list was originally written by The Coder Career founders Cam Blackwood and Colin Riddell. Members of The Coder Career community have now contributed their favourite resources too! Want to contribute? Check out the instructions.md file.
