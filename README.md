@@ -5,6 +5,7 @@ Want to contribute? Check out the instructions.md file.
 - [Websites](https://github.com/The-Coder-Career/recommended-resources#websites)
 - [Youtube Channels](https://github.com/The-Coder-Career/recommended-resources#youtube-channels)
 - [Podcasts](https://github.com/The-Coder-Career/recommended-resources#podcasts)
+- [Github Repositories](https://github.com/The-Coder-Career/recommended-resources#github-repositories)
 
 We recommend this content! Note that any website marked with a \* may pay us a commission if you subscribe to a learning plan with them.
 
