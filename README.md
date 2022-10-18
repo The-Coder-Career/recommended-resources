@@ -39,7 +39,7 @@ Remember you can search this document by using cmd/ctrl + f!
 | SuperHi                          | https://www.superhi.com/courses                                                      | Free + Paid                  | HTML, CSS, Javascript, Ruby       |
 | The Hitchhiker's Guide to Python                 | https://docs.python-guide.org/                                           | Free                         | Python                               |
 | The Odin Project                 | https://www.theodinproject.com/                                           | Free                         | HTML, CSS, Javascript                               |
-| Udacity | https://www.udacity.com/course/intro-to-programming-nanodegree--nd000 | Free + Paid | HTML, CSS, Python, Javascript, Typescript, CLI, Java |
+| Udacity - Intro To Programming | https://www.udacity.com/course/intro-to-programming-nanodegree--nd000 | Free + Paid | HTML, CSS, Python, Javascript, Typescript, CLI, Java |
 | Wes Bos                | https://wesbos.com/courses                                          | Free + Paid                         | Javascript, CSS                               |
 | Zero To Mastery\*                | https://academy.zerotomastery.io/?affcode=441520_4zkdbffr                 | Paid                         | HTML, CSS, Javascript, Python, Typescript, Solidity |
 
