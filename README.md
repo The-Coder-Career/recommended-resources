@@ -29,6 +29,7 @@ Remember you can search this document by using cmd/ctrl + f!
 | Harvard CS50 (Within EDX)        | https://pll.harvard.edu/course/cs50-introduction-computer-science?delta=0 | Free (pay for certification) | HTML, CSS, Javascript, Python, C                    |
 | HTML Reference       | https://htmlreference.io/ | Free | HTML                   |
 | Introduction to Computing (Book) | https://www.davidjoyner.net/blog/introduction-to-computing/                                       | Free                         | Python                                              |
+| Learn Code The Hard Way | https://learncodethehardway.org/ | Paid | Python, Ruby, C, SQL, Javascript, Unix, Regex and Design |
 | Learn Git Branching                        | https://learngitbranching.js.org/                                                      | Free                  | Git       |
 | Marco Behler                      | https://www.marcobehler.com/v2                                                      | Free + Paid                 | Java       |
 | Pro Git (Book)                       | https://git-scm.com/book/en/v2                                                      | Free                  | Git       |
@@ -38,6 +39,7 @@ Remember you can search this document by using cmd/ctrl + f!
 | SuperHi                          | https://www.superhi.com/courses                                                      | Free + Paid                  | HTML, CSS, Javascript, Ruby       |
 | The Hitchhiker's Guide to Python                 | https://docs.python-guide.org/                                           | Free                         | Python                               |
 | The Odin Project                 | https://www.theodinproject.com/                                           | Free                         | HTML, CSS, Javascript                               |
+| Udacity - Intro To Programming | https://www.udacity.com/course/intro-to-programming-nanodegree--nd000 | Free + Paid | HTML, CSS, Python, Javascript, Typescript, CLI, Java |
 | Wes Bos                | https://wesbos.com/courses                                          | Free + Paid                         | Javascript, CSS                               |
 | Zero To Mastery\*                | https://academy.zerotomastery.io/?affcode=441520_4zkdbffr                 | Paid                         | HTML, CSS, Javascript, Python, Typescript, Solidity |
 
@@ -48,18 +50,21 @@ Remember you can search this document by using cmd/ctrl + f!
 | Ben Awad             | https://www.youtube.com/c/BenAwad97                      | Careers/Tutorials  | Javascript                              |
 | Code Creative        | https://www.youtube.com/channel/UC09fL42MpkktKZWmWxYiDhw | Careers/Tutorials  |                                         |
 | Code With Ania Kybów | https://www.youtube.com/c/AniaKubów                      | Courses/Tutorials  | Javascript                              |
+| Derek Banas          | https://www.youtube.com/c/derekbanas                     | Courses/Tutorials  | Everything!                             |
 | Fireship             | https://www.youtube.com/c/Fireship                       | News and Summaries |                                         |
 | Forrest Knight       | https://www.youtube.com/c/FKnight                        | Careers            |                                         |
 | FreeCodeCamp         | https://www.youtube.com/c/Freecodecamp                   | Courses            | Everything!                             |
+| JavaScriptMastery    | https://www.youtube.com/c/JavaScriptMastery              | Tutorials          | Javascript                              |
 | John                 | https://www.youtube.com/c/CodingwithJohn                 | Tutorials          | Java                                    |
 | Kevin Powell         | https://www.youtube.com/kepowob                          | Tutorials ++       | Big focus on CSS & and some HTML        |
+| Network Chuck        | https://www.youtube.com/c/NetworkChuck                   | Tutorials ++       | Covers whole host of topics across tech |
 | Nick White           | https://www.youtube.com/c/NickWhite/videos               | Careers            | Javascript                              |
 | Pragmatic Engineer   | https://www.youtube.com/c/mrgergelyorosz                 | Careers            |                                         |
 | TheNetNinja          | https://www.youtube.com/c/TheNetNinja                    | Courses            | Everything!                             |
 | The Coder Career     | https://www.youtube.com/c/thecodercareer                 | Careers/Tutorials  |                                         |
 | Tina Huang           | https://www.youtube.com/c/TinaHuang1                     | Careers            | Data Science                            |
 | Web Dev Simplified   | https://www.youtube.com/c/WebDevSimplified               | Courses/Tutorials  | Web Development                         |
-| Women Who Code   | https://www.youtube.com/user/WomenWhoCode               | Courses/Careers/Talks/Tutorials | Everything!                         |
+| Women Who Code   | https://www.youtube.com/user/WomenWhoCode               | Courses/Careers/Talks/Tutorials | Everything!                     |
 
 ## Podcasts
 
