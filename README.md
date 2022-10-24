@@ -48,6 +48,7 @@ Remember you can search this document by using cmd/ctrl + f!
 | Channel Name         | Link                                                     | Focus              | Languages/Areas Covered (if applicable) |
 | -------------------- | -------------------------------------------------------- | ------------------ | --------------------------------------- |
 | Ben Awad             | https://www.youtube.com/c/BenAwad97                      | Careers/Tutorials  | Javascript                              |
+| Bitfumes             | https://www.youtube.com/c/Bitfumes                       | Careers/Tutorials  | Everything!                            |
 | Code Creative        | https://www.youtube.com/channel/UC09fL42MpkktKZWmWxYiDhw | Careers/Tutorials  |                                         |
 | Code With Ania Kybów | https://www.youtube.com/c/AniaKubów                      | Courses/Tutorials  | Javascript                              |
 | Derek Banas          | https://www.youtube.com/c/derekbanas                     | Courses/Tutorials  | Everything!                             |
