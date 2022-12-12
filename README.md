@@ -7,8 +7,6 @@ Want to contribute? Check out the instructions.md file.
 - [Podcasts](https://github.com/The-Coder-Career/recommended-resources#podcasts)
 - [Github Repositories](https://github.com/The-Coder-Career/recommended-resources#github-repositories)
 
-We recommend this content! Note that any website marked with a \* may pay us a commission if you subscribe to a learning plan with them.
-
 Remember you can search this document by using cmd/ctrl + f!
 
 ## Websites
