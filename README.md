@@ -91,4 +91,4 @@ Remember you can search this document by using cmd/ctrl + f!
 
 ## Who is behind this list?
 
-This list was originally written by The Coder Career founders Cam Blackwood and Colin Riddell. Members of The Coder Career community have now contributed their favourite resources too! Want to contribute? Check out the instructions.md file.
+This list was originally written by The Coder Career Podcast. Members of The Coder Career community have now contributed their favourite resources too! Want to contribute? Check out the instructions.md file.
