@@ -1,0 +1,383 @@
+{
+  "resources": {
+    "websites": [
+      {
+        "name": "Automate the Boring Stuff (Book)",
+        "link": "https://automatetheboringstuff.com/",
+        "languages": ["python"],
+        "cost": "Free"
+      },
+      {
+        "name": "Baeldung",
+        "link": "https://www.baeldung.com/",
+        "languages": ["java"],
+        "cost": "Free & Paid"
+      },
+      {
+        "name": "Codecademy",
+        "link": "https://www.codecademy.com/",
+        "languages": ["html", "css", "javascript"],
+        "cost": "Free & Paid"
+      },
+      {
+        "name": "Code First Girls",
+        "link": "https://codefirstgirls.com/",
+        "languages": ["html", "css", "javascript", "python"],
+        "cost": "Free"
+      },
+      {
+        "name": "Coursera",
+        "link": "https://www.coursera.org/",
+        "languages": ["python"],
+        "cost": "Free & Paid"
+      },
+      {
+        "name": "CSS Reference",
+        "link": "https://cssreference.io/",
+        "languages": ["css"],
+        "cost": "Free"
+      },
+      {
+        "name": "Dangit Git",
+        "link": "https://dangitgit.com/en",
+        "languages": ["git"],
+        "cost": "Free"
+      },
+      {
+        "name": "Django Girls Tutorial",
+        "link": "https://tutorial.djangogirls.org/en/",
+        "languages": ["python"],
+        "cost": "Free"
+      },
+      {
+        "name": "EdX",
+        "link": "https://www.edx.org/",
+        "languages": ["python"],
+        "cost": "Free & Paid"
+      },
+      {
+        "name": "FreeCodeCamp",
+        "link": "https://www.freecodecamp.org/",
+        "languages": ["html", "css", "javascript"],
+        "cost": "Free"
+      },
+      {
+        "name": "Git for Pragmatists",
+        "link": "https://www.gitforpragmatists.xyz/",
+        "languages": ["git"],
+        "cost": "Free"
+      },
+      {
+        "name": "Harvard CS50 (Within EdX)",
+        "link": "https://pll.harvard.edu/course/cs50-introduction-computer-science?delta=0",
+        "languages": ["html", "css", "javascript", "python", "c"],
+        "cost": "Free-(Pay-for-Certification)"
+      },
+      {
+        "name": "HTML Reference",
+        "link": "https://htmlreference.io/",
+        "languages": ["html"],
+        "cost": "Free"
+      },
+      {
+        "name": "Introduction to Computing (Book)",
+        "link": "https://www.davidjoyner.net/blog/introduction-to-computing/",
+        "languages": ["python"],
+        "cost": "Free"
+      },
+      {
+        "name": "Learn Code the Hard Way",
+        "link": "https://learncodethehardway.org/",
+        "languages": [
+          "python",
+          "ruby",
+          "c",
+          "sql",
+          "javascript",
+          "unix",
+          "regex",
+          "design"
+        ],
+        "cost": "Paid"
+      },
+      {
+        "name": "Learn Git Branching",
+        "link": "https://learngitbranching.js.org/",
+        "languages": ["git"],
+        "cost": "Free"
+      },
+      {
+        "name": "Marco Behler",
+        "link": "https://www.marcobehler.com/v2",
+        "languages": ["java"],
+        "cost": "Free & Paid"
+      },
+      {
+        "name": "Pro Git (Book)",
+        "link": "https://git-scm.com/book/en/v2",
+        "languages": ["git"],
+        "cost": "Free"
+      },
+      {
+        "name": "Raspberry Pi Foundation",
+        "link": "https://www.futurelearn.com/partners/raspberry-pi",
+        "languages": ["python", "sql", "html", "css"],
+        "cost": "Free & Paid"
+      },
+      {
+        "name": "Regular Expressions 101",
+        "link": "https://regex101.com/",
+        "languages": ["regex"],
+        "cost": "Free"
+      },
+      {
+        "name": "Scrimba",
+        "link": "https://scrimba.com/",
+        "languages": ["html", "css", "javascript", "typescript", "svelte"],
+        "cost": "Free & Paid"
+      },
+      {
+        "name": "Superhi",
+        "link": "https://www.superhi.com/courses",
+        "languages": ["html", "css", "javascript", "ruby"],
+        "cost": "Free & Paid"
+      },
+      {
+        "name": "The Hitchhiker's Guide to Python",
+        "link": "https://docs.python-guide.org/",
+        "languages": ["python"],
+        "cost": "Free"
+      },
+      {
+        "name": "The Odin Project",
+        "link": "https://www.theodinproject.com/",
+        "languages": ["html", "css", "javascript"],
+        "cost": "Free"
+      },
+      {
+        "name": "Udacity Intro to Programming",
+        "link": "https://www.udacity.com/course/intro-to-programming-nanodegree--nd000",
+        "languages": [
+          "html",
+          "css",
+          "python",
+          "javascript",
+          "typescript",
+          "cli",
+          "java"
+        ],
+        "cost": "Free & Paid"
+      },
+      {
+        "name": "Wes Bos",
+        "link": "https://wesbos.com/courses",
+        "languages": ["javascript", "css"],
+        "cost": "Free & Paid"
+      }
+    ],
+    "youtube-channels": [
+      {
+        "name": "Ben Awad",
+        "link": "https://www.youtube.com/c/BenAwad97",
+        "languages": ["javascript"],
+        "focus": ["Careers", "Tutorials"]
+      },
+      {
+        "name": "Bitfumes",
+        "link": "https://www.youtube.com/c/Bitfumes",
+        "languages": ["everything"],
+        "focus": ["Careers", "Tutorials"]
+      },
+      {
+        "name": "Code Creative",
+        "link": "https://www.youtube.com/channel/UC09fL42MpkktKZWmWxYiDhw",
+        "languages": [],
+        "focus": ["Careers", "Tutorials"]
+      },
+      {
+        "name": "Code with Ania Kubów",
+        "link": "https://www.youtube.com/c/AniaKubów",
+        "languages": ["javascript"],
+        "focus": ["Courses", "Tutorials"]
+      },
+      {
+        "name": "Derek Banas",
+        "link": "https://www.youtube.com/c/derekbanas",
+        "languages": ["everything"],
+        "focus": ["Courses", "Tutorials"]
+      },
+      {
+        "name": "Fireship",
+        "link": "https://www.youtube.com/c/Fireship",
+        "languages": [],
+        "focus": ["News and Summaries"]
+      },
+      {
+        "name": "Forrest Knight",
+        "link": "https://www.youtube.com/c/FKnight",
+        "languages": [],
+        "focus": ["Careers"]
+      },
+      {
+        "name": "FreeCodeCamp",
+        "link": "https://www.youtube.com/c/Freecodecamp",
+        "languages": ["everything"],
+        "focus": ["Courses"]
+      },
+      {
+        "name": "JavaScript Mastery",
+        "link": "https://www.youtube.com/c/JavaScriptMastery",
+        "languages": ["javascript"],
+        "focus": ["Tutorials"]
+      },
+      {
+        "name": "John",
+        "link": "https://www.youtube.com/c/CodingwithJohn",
+        "languages": ["java"],
+        "focus": ["Tutorials"]
+      },
+      {
+        "name": "Kevin Powell",
+        "link": "https://www.youtube.com/kepowob",
+        "languages": [],
+        "focus": ["Tutorials", "Big Focus on CSS", "And Some HTML"]
+      },
+      {
+        "name": "Network Chuck",
+        "link": "https://www.youtube.com/c/NetworkChuck",
+        "languages": [],
+        "focus": ["Tutorials", "Covers Whole Host of Topics Across Tech"]
+      },
+      {
+        "name": "Nick White",
+        "link": "https://www.youtube.com/c/NickWhite/videos",
+        "languages": ["javascript"],
+        "focus": ["Careers"]
+      },
+      {
+        "name": "Pragmatic Engineer",
+        "link": "https://www.youtube.com/c/mrgergelyorosz",
+        "languages": [],
+        "focus": ["Careers"]
+      },
+      {
+        "name": "The Net Ninja",
+        "link": "https://www.youtube.com/c/TheNetNinja",
+        "languages": ["everything"],
+        "focus": ["Courses"]
+      },
+      {
+        "name": "The Coder Career",
+        "link": "https://www.youtube.com/c/thecodercareer",
+        "languages": [],
+        "focus": ["Careers", "Tutorials"]
+      },
+      {
+        "name": "Tina Huang",
+        "link": "https://www.youtube.com/c/TinaHuang1",
+        "languages": ["data-science"],
+        "focus": ["Careers"]
+      },
+      {
+        "name": "Web Dev Simplified",
+        "link": "https://www.youtube.com/c/WebDevSimplified",
+        "languages": ["web-development"],
+        "focus": ["Courses", "Tutorials"]
+      },
+      {
+        "name": "Women Who Code",
+        "link": "https://www.youtube.com/user/WomenWhoCode",
+        "languages": ["everything"],
+        "focus": ["Courses", "Careers", "Talks", "Tutorials"]
+      }
+    ],
+    "podcasts": [
+      {
+        "name": "Accidental Tech Podcast",
+        "link": "https://open.spotify.com/show/76h8fh9KK3boiMrQ340lV4",
+        "languages": ["everything"],
+        "focus": ["Tech News", "Technical Explanations"]
+      },
+      {
+        "name": "All the Code",
+        "link": "https://open.spotify.com/show/3soviQmGnbnSxJcJzV8N3J",
+        "languages": ["everything"],
+        "focus": ["Technical Explanations", "Entrepreneurship"]
+      },
+      {
+        "name": "Code Newbie",
+        "link": "https://open.spotify.com/show/2T2OwucPOy2uDG1CUsjIMB",
+        "languages": ["everything"],
+        "focus": ["Interviews", "Technical Explanations", "Careers"]
+      },
+      {
+        "name": "Compiler",
+        "link": "https://open.spotify.com/show/2vdrao20EwrhpLeO59ZT7K",
+        "languages": ["everything"],
+        "focus": ["Technical Explanations", "Careers"]
+      },
+      {
+        "name": "DevDiscuss",
+        "link": "https://open.spotify.com/show/4Jae2mPUqx0XnGychucsE4",
+        "languages": ["everything"],
+        "focus": ["Interviews", "Technical Explanations", "Careers"]
+      },
+      {
+        "name": "Glowing in Tech",
+        "link": "https://open.spotify.com/show/7av07hbwZWBUGTQmG3Vaxi",
+        "languages": ["everything"],
+        "focus": ["Technical Explanations", "Careers", "Women in Tech"]
+      },
+      {
+        "name": "Indie Hackers",
+        "link": "https://open.spotify.com/show/4ex8hmrHCPvPohKJb3wsuC",
+        "languages": ["everything"],
+        "focus": ["Entrepreneurship"]
+      },
+      {
+        "name": "JavaScript Jabber",
+        "link": "https://open.spotify.com/show/6xpiit8aJmwDHk1rKdxmri",
+        "languages": ["javascript"],
+        "focus": ["Technical Explanations"]
+      },
+      {
+        "name": "Ladybug Podcast",
+        "link": "https://open.spotify.com/show/1KBO1tSnm0XRlEILmqt7Em",
+        "languages": ["everything"],
+        "focus": ["Interviews", "Technical Explanations", "Careers", "Women in Tech"]
+      },
+      {
+        "name": "Talk Python to Me",
+        "link": "https://open.spotify.com/show/6Ol9sx1lONDxBSffLW9qcZ",
+        "languages": ["python"],
+        "focus": ["Interviews", "Technical Explanations"]
+      },
+      {
+        "name": "The Coder Career",
+        "link": "https://open.spotify.com/show/7BkIsKOw8vhFOmD4ZKXwES",
+        "languages": ["everything"],
+        "focus": ["Interviews", "Technical Explanations"]
+      },
+      {
+        "name": "Syntax",
+        "link": "https://open.spotify.com/show/4kYCRYJ3yK5DQbP5tbfZby",
+        "languages": ["everything"],
+        "focus": ["Interviews", "Technical Explanations"]
+      },
+      {
+        "name": "Women Who Code Podcast",
+        "link": "https://open.spotify.com/show/3BnStSrxm2bsGwNrWAS8P9",
+        "languages": ["everything"],
+        "focus": ["Interviews", "Careers", "Women in Tech"]
+      }
+    ],
+    "github-repositories": [
+      {
+        "name": "Coding Interview University",
+        "link": "https://github.com/jwasham/coding-interview-university",
+        "languages": ["c", "python", "java", "c++"],
+        "focus": ["Zero Code Up to Job Interview"]
+      }
+    ]
+  }
+}
